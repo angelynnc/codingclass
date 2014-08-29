@@ -23,4 +23,13 @@ line-height: 50px;
 .page-navigation ul li a:hover { 
 color: #C299C2;
 text-decoration: underline;
+} 
+
+.index-title { 
+color:#66FFFF; 
+text-decoration: underline;    
+} 
+
+.favorite-links li a:hover { 
+ color:pink;
 }
