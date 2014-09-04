@@ -1,12 +1,22 @@
 
-body { 
- background-color: #cadde5;
-padding: 40px; 
+.container { 
+
 }
  
-h1{ 
-color: #2980b9; 
-font-size: 40px;
+ .main-content { 
+padding: 20px; 
+background: #E3E4E4;
 } 
 
-h2 {
+.main-footer { 
+height: 100px; 
+color:#FFF;
+background: #222;
+} 
+
+.base { 
+padding-top: 50px; 
+color: #FFF; 
+text-align:  center;
+font-size: 24px;
+} 
