@@ -8,7 +8,7 @@
 .main-header {
   height: 100px;
   background-color: #0000FF;
-  padding: 20px;
+  padding: 5px;
 }
 
 .main-header .navigation {
@@ -17,7 +17,7 @@
 
 .main-header .navigation ul {
   list-style: none; /*this removes dots*/
-  background-color: green;
+  
   overflow: hidden;
 }
 
@@ -40,9 +40,35 @@
 }
 
 .main-content {
-  min-height: 500px;
+  min-height: 500px; 
 }
 
 .main-footer {
-  height: 50px;
+  height: 200px;
   background-color: #0000FF;
+  list-style: none;
+ } 
+
+.footer-box {
+  width: 250px; 
+  background-color: yellow;  
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
